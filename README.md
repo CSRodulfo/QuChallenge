@@ -14,8 +14,10 @@ The architecture is very simple:
 * Services and Businesses
 * Test
 
-I don´t use DI or library (Ex: FluenValidation) I decided a simple paradigm of POO and principle SOLID
+I don´t use DI or library (Ex: FluentValidation) I decided a simple paradigm of POO and principle SOLID
 
  <p align="center">
   <img src="https://csrodulfo.com.ar/wp-content/uploads/QuClass.png">
 </p>
+
+URL in Azure: http://qubeyond.azurewebsites.net/
